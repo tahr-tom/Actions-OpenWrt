@@ -8,8 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt for BCM2711 Raspberry Pi 4B
-
+name: Build OpenWrt for GL iNet GL-AR300M (Nand)
 on:
   repository_dispatch:
   workflow_dispatch:
