@@ -11,8 +11,6 @@
 name: Build OpenWrt for x86-64 KVM/QEMU (Proxmox)
 on:
   repository_dispatch:
-  schedule:
-    - cron: '15 23 * * *'
   workflow_dispatch:
     inputs:
       ssh:
