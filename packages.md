@@ -3,6 +3,7 @@
 - `luci-app-ttyd`
 - `luci-app-wol`
 - `luci-ssl-nginx`
+- `qemu-x86_64-softmmu` **important for Proxmox** without this packages, the network performance will be poor.
 
 # DoH
 - `https-dns-proxy`
@@ -20,7 +21,7 @@
 - `luci-app-statistics`
 ## Prometheus
 - `prometheus-node-exporter-lua`
--` prometheus-node-exporter-lua-nat_traffic`
+- `prometheus-node-exporter-lua-nat_traffic`
 - `prometheus-node-exporter-lua-netstat`
 - `prometheus-node-exporter-lua-openwrt`
 
