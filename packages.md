@@ -5,6 +5,9 @@
 - `luci-ssl-nginx`
 - `qemu-x86_64-softmmu` **important for Proxmox** without this packages, the network performance will be poor.
 
+# Hardware Support
+- `kmod-igc` Intel i225 support (should be included by default in `22.03`)
+
 # DoH
 - `https-dns-proxy`
 - `luci-app-https-dns-proxy`
