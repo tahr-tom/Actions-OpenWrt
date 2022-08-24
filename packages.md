@@ -28,6 +28,8 @@
 - `prometheus-node-exporter-lua-nat_traffic`
 - `prometheus-node-exporter-lua-netstat`
 - `prometheus-node-exporter-lua-openwrt`
+- `prometheus-node-exporter-lua-wifi` If WiFi is built in
+- `prometheus-node-exporter-lua-wifi_stations` If WiFi is built in
 
 # AD blocking
 - `luci-app-simple-adblock`
