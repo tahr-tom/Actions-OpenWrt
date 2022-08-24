@@ -9,7 +9,7 @@
 - `kmod-igc` Intel i225 support (should be included by default in `22.03`)
 
 # DoH
-- `https-dns-proxy`
+- `luci-app-https-dns-proxy`
 - `luci-app-https-dns-proxy`
 
 # QoS
@@ -30,7 +30,6 @@
 - `prometheus-node-exporter-lua-openwrt`
 
 # AD blocking
-- `simple-adblock`
 - `luci-app-simple-adblock`
 ## simple-adblock dependencies
 - `curl`
