@@ -11,6 +11,9 @@
 # DoH
 - `luci-app-https-dns-proxy`
 
+# DoT
+- `luci-app-unbound`
+
 # QoS
 - `luci-app-sqm`
 
