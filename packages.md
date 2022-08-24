@@ -10,7 +10,6 @@
 
 # DoH
 - `luci-app-https-dns-proxy`
-- `luci-app-https-dns-proxy`
 
 # QoS
 - `luci-app-sqm`
