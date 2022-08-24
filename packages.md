@@ -18,6 +18,7 @@
 # VPN
 - `luci-app-openvpn`
 - `luci-app-wireguard`
+- `tailscale`
 
 # Monitoring
 - `netdata`
