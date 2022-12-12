@@ -49,6 +49,6 @@ https://docs.openwrt.melmac.net/simple-adblock/
 - `grep`
 - `sed` 
 
-# Network Transfer
+# File Transfer
 - `rclone`
-- `rclone config`
+- `rclone-config`
