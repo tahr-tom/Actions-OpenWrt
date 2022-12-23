@@ -1,6 +1,7 @@
 coreutils
 coreutils-sort
 curl
+-dnsmasq
 dnsmasq-full
 gawk
 grep
