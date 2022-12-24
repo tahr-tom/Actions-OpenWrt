@@ -1,7 +1,7 @@
+-dnsmasq
 coreutils
 coreutils-sort
 curl
--dnsmasq
 dnsmasq-full
 gawk
 grep
@@ -17,6 +17,7 @@ luci-app-ttyd
 luci-app-wireguard
 luci-app-wol
 luci-ssl-nginx
+nano
 netdata
 prometheus-node-exporter-lua
 prometheus-node-exporter-lua-nat_traffic
@@ -25,3 +26,4 @@ prometheus-node-exporter-lua-openwrt
 rclone
 rclone-config
 sed
+smartmontools
