@@ -36,7 +36,6 @@
 # AD blocking
 - `luci-app-simple-adblock`
 ## simple-adblock dependencies
-- `curl`
 - `dnsmasq-full`
 - `ipset`
 - `libnetfilter-conntrack3`
