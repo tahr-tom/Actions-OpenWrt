@@ -1,4 +1,5 @@
 # Common
+- `nano`
 - `iperf3`
 - `luci-app-ttyd`
 - `luci-app-wol`
@@ -51,3 +52,6 @@ https://docs.openwrt.melmac.net/simple-adblock/
 # File Transfer
 - `rclone`
 - `rclone-config`
+
+# Disk Health
+- `smartmontools`
