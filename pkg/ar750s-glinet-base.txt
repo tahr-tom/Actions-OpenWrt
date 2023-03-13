@@ -1,4 +1,4 @@
-#Default packages from Glinet, generated with $ wget https://github.com/gl-inet/imagebuilder/raw/master/config/images.json.3.025 -O - | jq '.packages.basic + .packages.storage + .packages.usb' -r)
+#Default packages from Glinet, generated with $ wget https://github.com/gl-inet/imagebuilder/raw/master/config/images.json.3.025 -O - | jq '.packages.basic + .packages.storage + .packages.usb' -r
 -dnsmasq
 -unbound
 -wpad-mini
