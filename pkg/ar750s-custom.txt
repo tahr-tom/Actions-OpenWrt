@@ -10,11 +10,11 @@ libnetfilter-conntrack3
 libnettle8
 luci-app-https-dns-proxy
 luci-app-openvpn
-luci-app-simple-adblock
+luci-app-adblock-fast
 luci-app-ttyd
 luci-app-wireguard
 luci-app-wol
-luci-ssl-nginx
+luci-ssl
 nano
 netdata
 #prometheus-node-exporter-lua
