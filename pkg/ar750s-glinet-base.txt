@@ -58,4 +58,3 @@ unzip
 uqmi
 usb-modeswitch
 usbmuxd
-wpa-cli
