@@ -14,7 +14,7 @@ luci-app-https-dns-proxy
 luci-app-openvpn
 luci-app-sqm
 luci-app-ttyd
-luci-app-wireguard
+luci-proto-wireguard
 luci-app-wol
 luci-ssl
 nano
