@@ -47,7 +47,7 @@ libnettle8
 libusbmuxd
 luci-app-https-dns-proxy
 luci-app-openvpn
-luci-app-wireguard
+luci-proto-wireguard
 luci-app-wol
 luci-ssl
 mwan3

@@ -12,7 +12,7 @@ luci-app-https-dns-proxy
 luci-app-openvpn
 luci-app-adblock-fast
 luci-app-ttyd
-luci-app-wireguard
+luci-proto-wireguard
 luci-app-wol
 luci-ssl
 nano
